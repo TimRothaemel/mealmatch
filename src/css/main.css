@@ -6,6 +6,8 @@
 :root{
     --bcolor: rgb(247, 227, 208);
     --bordercolor: rgb(244, 221, 199);
+    --linkcolor: rgb(100, 100, 100);
+    --linkcolorhover: rgba(22, 84, 61);
 }
 
 *{

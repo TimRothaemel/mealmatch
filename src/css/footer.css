@@ -8,4 +8,18 @@ footer{
     gap: 20px;
     position: fixed;
     bottom: 0;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 16px;
+}
+footer a{
+    font-size: 18px;
+    text-decoration: none;
+    color: var(--linkcolor);
+}  
+
+footer a:hover{
+    cursor: pointer;
+    color: var(--linkcolorhover);
+    text-decoration: underline;
 }
