@@ -1,0 +1,11 @@
+header{
+    background-color: var(--bordercolor);
+    height: 130px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2); 
+    text-align: right;
+}
+header img{
+    margin-top: -35px;
+   
+    height: 200px;
+}
